@@ -7,11 +7,11 @@
 
 A comprehensive student management system built with Python and Tkinter, featuring a modern interface and advanced functionality for educational institutions.
 
-![Student Management System](https://via.placeholder.com/800x400/2c3e50/ffffff?text=Student+Management+System)
+![Student Management System](screenshots/screenshot1.png)
 
 ## 🌟 Live Demo
 
-> **Note**: This is a desktop application. Screenshots and demo videos will be added soon.
+> **Note**: This is a desktop application. See screenshots below for interface preview.
 
 ## ✨ Features
 
@@ -161,13 +161,20 @@ CREATE TABLE students (
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Dashboard](https://via.placeholder.com/600x400/3498db/ffffff?text=Dashboard+Screenshot)
+![Dashboard](screenshots/screenshot1.png)
+*Professional tabbed interface with modern styling*
 
-### Student Management
-![Student Form](https://via.placeholder.com/600x400/27ae60/ffffff?text=Student+Form)
+### Student Management Form
+![Student Form](screenshots/screenshot2.png)
+*Easy-to-use form for adding and editing student records*
 
-### Analytics View
-![Analytics](https://via.placeholder.com/600x400/e74c3c/ffffff?text=Analytics+Dashboard)
+### Records & Search View
+![Records](screenshots/screenshot3.png)
+*Advanced search and filtering capabilities*
+
+### Analytics Dashboard
+![Analytics](screenshots/screenshot4.png)
+*Real-time statistics and insights*
 
 ## 🤝 Contributing
 
